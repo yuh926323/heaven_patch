@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="BIG5" ?>
 <clientinfo>
-	<desc>Ragnarok Online Client Information</desc>
+	<desc>Heaven Ragnarok</desc>
 	<servicetype>taiwan</servicetype>
 	<servertype>primary</servertype>
 	<connection>
-		<display>登入伺服器</display>
-		<balloon>(登入伺服器)</balloon>
+		<display>Heaven Ragnarok</display>
+		<balloon>Heaven Ragnarok</balloon>
 		<address>107.167.185.30</address>
 		<port>6900</port>
 		<version>100</version>
 		<langtype>4</langtype>
-		<registrationweb>www.ragnarok.com</registrationweb>
+		<registrationweb></registrationweb>
 		<loading>
 			<image>loading00.jpg</image>
 			<image>loading01.jpg</image>
@@ -22,13 +22,5 @@
 			<admin>2000000</admin>
 			<admin>2000001</admin>
 		</aid>
-	</connection>
-	<connection>
-		<display>本機測試</display>
-		<balloon>(本機測試)</balloon>
-		<address>localhost</address>
-		<port>6900</port>
-		<version>100</version>
-		<langtype>4</langtype>
 	</connection>
 </clientinfo>
