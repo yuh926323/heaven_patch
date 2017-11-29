@@ -14,6 +14,8 @@
 
 AccNameTable =
 {
+	[ACCESSORY_IDs.ACCESSORY_LOOKING] = "보고있어",
+--===========================================================================
 	[ACCESSORY_IDs.ACCESSORY_GOGGLES] = "_고글",
 	[ACCESSORY_IDs.ACCESSORY_CATTYHAIRBAND] = "_고양이머리띠",
 	[ACCESSORY_IDs.ACCESSORY_GLASS] = "_글래스",

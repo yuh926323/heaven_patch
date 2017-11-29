@@ -7,6 +7,8 @@
 
 ACCESSORY_IDs =
 {
+	ACCESSORY_LOOKING = 1577,
+--===================================================
 	ACCESSORY_GOGGLES  	= 1,
 	ACCESSORY_CATTYHAIRBAND  	= 2,
 	ACCESSORY_GLASS  	= 3,
